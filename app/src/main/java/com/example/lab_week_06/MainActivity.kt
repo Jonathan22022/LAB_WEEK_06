@@ -58,10 +58,52 @@ class MainActivity : AppCompatActivity() {
                 ),
                 CatModel(
                     Gender.Unknown,
-                    CatBreed.AmericanCurl,"Curious George",
-                    "Award winning investigator",
+                    CatBreed.AmericanCurl,
+                    "Curious George",
+                    "Award-winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
-                )
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Luna",
+                    "Queen of naps and tuna treats",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Simba",
+                    "Loves to climb and rule the house",
+                    "https://cdn2.thecatapi.com/images/6qi.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Chloe",
+                    "Loves cuddles and morning sunbathing",
+                    "https://cdn2.thecatapi.com/images/ck9.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Mochi",
+                    "Sweet, soft, and slightly moody",
+                    "https://cdn2.thecatapi.com/images/ba2.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Felix",
+                    "Always up for a snack",
+                    "https://cdn2.thecatapi.com/images/b9h.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.BalineseJavanese,
+                    "Smokey",
+                    "Chillest cat in the world",
+                    "https://cdn2.thecatapi.com/images/b2a.jpg"),
             )
         )
     }
